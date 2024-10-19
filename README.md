@@ -18,10 +18,10 @@
     # build your ros workspace for our Tracking-help segmentation demo
     $ cd ~/tracking_ws
     $ catkin_make
-    ```
+
     
 2. Run demo with kitti rosbag:
-    + **Terminal 1**: rosbag play kitti_2011_09_26_drive_0017_synced.bag
+    + **Terminal 1**: rosbag play kitti_2011_09_26_drive_0017_synced.bag (https://drive.google.com/file/d/1yJ7xFdPbLgASEE47FuTSNHeCqHDLvpqe/view?usp=sharing)
 
     + Play rosbag and modify the `detection.yaml` and `tracking.yaml` if necessary.
       
